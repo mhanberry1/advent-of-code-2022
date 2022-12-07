@@ -8,3 +8,6 @@ day2:
 
 day3:
 	cd 03 && make
+
+day4:
+	cd 04 && make
